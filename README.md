@@ -31,6 +31,18 @@ cd ~/Desktop/OUERTANI/
 python3 test_chained_list.py
 ```
 
+## Results :
+
+If all tests are successfully passed you should have the following result displayed :
+
+```bash
+....
+----------------------------------------------------------------------
+Ran 4 tests in 0.000s
+
+OK
+```
+
 ## Authors :
 
 **Mohamed Ouertani**
